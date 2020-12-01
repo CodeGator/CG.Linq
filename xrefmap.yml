@@ -1,0 +1,337 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: CG.Collections.Generic
+  name: CG.Collections.Generic
+  href: api/CG.Collections.Generic.html
+  commentId: N:CG.Collections.Generic
+  fullName: CG.Collections.Generic
+  nameWithType: CG.Collections.Generic
+- uid: CG.Collections.Generic.EnumerableExtensions
+  name: EnumerableExtensions
+  href: api/CG.Collections.Generic.EnumerableExtensions.html
+  commentId: T:CG.Collections.Generic.EnumerableExtensions
+  fullName: CG.Collections.Generic.EnumerableExtensions
+  nameWithType: EnumerableExtensions
+- uid: CG.Collections.Generic.EnumerableExtensions.AlternateElements*
+  name: AlternateElements
+  href: api/CG.Collections.Generic.EnumerableExtensions.html#CG_Collections_Generic_EnumerableExtensions_AlternateElements_
+  commentId: Overload:CG.Collections.Generic.EnumerableExtensions.AlternateElements
+  isSpec: "True"
+  fullName: CG.Collections.Generic.EnumerableExtensions.AlternateElements
+  nameWithType: EnumerableExtensions.AlternateElements
+- uid: CG.Collections.Generic.EnumerableExtensions.AlternateElements``1(System.Collections.Generic.IEnumerable{``0})
+  name: AlternateElements<T>(IEnumerable<T>)
+  href: api/CG.Collections.Generic.EnumerableExtensions.html#CG_Collections_Generic_EnumerableExtensions_AlternateElements__1_System_Collections_Generic_IEnumerable___0__
+  commentId: M:CG.Collections.Generic.EnumerableExtensions.AlternateElements``1(System.Collections.Generic.IEnumerable{``0})
+  name.vb: AlternateElements(Of T)(IEnumerable(Of T))
+  fullName: CG.Collections.Generic.EnumerableExtensions.AlternateElements<T>(System.Collections.Generic.IEnumerable<T>)
+  fullName.vb: CG.Collections.Generic.EnumerableExtensions.AlternateElements(Of T)(System.Collections.Generic.IEnumerable(Of T))
+  nameWithType: EnumerableExtensions.AlternateElements<T>(IEnumerable<T>)
+  nameWithType.vb: EnumerableExtensions.AlternateElements(Of T)(IEnumerable(Of T))
+- uid: CG.Collections.Generic.EnumerableExtensions.Batch*
+  name: Batch
+  href: api/CG.Collections.Generic.EnumerableExtensions.html#CG_Collections_Generic_EnumerableExtensions_Batch_
+  commentId: Overload:CG.Collections.Generic.EnumerableExtensions.Batch
+  isSpec: "True"
+  fullName: CG.Collections.Generic.EnumerableExtensions.Batch
+  nameWithType: EnumerableExtensions.Batch
+- uid: CG.Collections.Generic.EnumerableExtensions.Batch``1(System.Collections.Generic.IEnumerable{``0},System.Int32)
+  name: Batch<T>(IEnumerable<T>, Int32)
+  href: api/CG.Collections.Generic.EnumerableExtensions.html#CG_Collections_Generic_EnumerableExtensions_Batch__1_System_Collections_Generic_IEnumerable___0__System_Int32_
+  commentId: M:CG.Collections.Generic.EnumerableExtensions.Batch``1(System.Collections.Generic.IEnumerable{``0},System.Int32)
+  name.vb: Batch(Of T)(IEnumerable(Of T), Int32)
+  fullName: CG.Collections.Generic.EnumerableExtensions.Batch<T>(System.Collections.Generic.IEnumerable<T>, System.Int32)
+  fullName.vb: CG.Collections.Generic.EnumerableExtensions.Batch(Of T)(System.Collections.Generic.IEnumerable(Of T), System.Int32)
+  nameWithType: EnumerableExtensions.Batch<T>(IEnumerable<T>, Int32)
+  nameWithType.vb: EnumerableExtensions.Batch(Of T)(IEnumerable(Of T), Int32)
+- uid: CG.Collections.Generic.EnumerableExtensions.DistinctOn*
+  name: DistinctOn
+  href: api/CG.Collections.Generic.EnumerableExtensions.html#CG_Collections_Generic_EnumerableExtensions_DistinctOn_
+  commentId: Overload:CG.Collections.Generic.EnumerableExtensions.DistinctOn
+  isSpec: "True"
+  fullName: CG.Collections.Generic.EnumerableExtensions.DistinctOn
+  nameWithType: EnumerableExtensions.DistinctOn
+- uid: CG.Collections.Generic.EnumerableExtensions.DistinctOn``2(System.Collections.Generic.IEnumerable{``0},System.Func{``0,``1})
+  name: DistinctOn<T, K>(IEnumerable<T>, Func<T, K>)
+  href: api/CG.Collections.Generic.EnumerableExtensions.html#CG_Collections_Generic_EnumerableExtensions_DistinctOn__2_System_Collections_Generic_IEnumerable___0__System_Func___0___1__
+  commentId: M:CG.Collections.Generic.EnumerableExtensions.DistinctOn``2(System.Collections.Generic.IEnumerable{``0},System.Func{``0,``1})
+  name.vb: DistinctOn(Of T, K)(IEnumerable(Of T), Func(Of T, K))
+  fullName: CG.Collections.Generic.EnumerableExtensions.DistinctOn<T, K>(System.Collections.Generic.IEnumerable<T>, System.Func<T, K>)
+  fullName.vb: CG.Collections.Generic.EnumerableExtensions.DistinctOn(Of T, K)(System.Collections.Generic.IEnumerable(Of T), System.Func(Of T, K))
+  nameWithType: EnumerableExtensions.DistinctOn<T, K>(IEnumerable<T>, Func<T, K>)
+  nameWithType.vb: EnumerableExtensions.DistinctOn(Of T, K)(IEnumerable(Of T), Func(Of T, K))
+- uid: CG.Collections.Generic.EnumerableExtensions.SelectManyR*
+  name: SelectManyR
+  href: api/CG.Collections.Generic.EnumerableExtensions.html#CG_Collections_Generic_EnumerableExtensions_SelectManyR_
+  commentId: Overload:CG.Collections.Generic.EnumerableExtensions.SelectManyR
+  isSpec: "True"
+  fullName: CG.Collections.Generic.EnumerableExtensions.SelectManyR
+  nameWithType: EnumerableExtensions.SelectManyR
+- uid: CG.Collections.Generic.EnumerableExtensions.SelectManyR``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Collections.Generic.IEnumerable{``0}})
+  name: SelectManyR<T>(IEnumerable<T>, Func<T, IEnumerable<T>>)
+  href: api/CG.Collections.Generic.EnumerableExtensions.html#CG_Collections_Generic_EnumerableExtensions_SelectManyR__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Collections_Generic_IEnumerable___0___
+  commentId: M:CG.Collections.Generic.EnumerableExtensions.SelectManyR``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Collections.Generic.IEnumerable{``0}})
+  name.vb: SelectManyR(Of T)(IEnumerable(Of T), Func(Of T, IEnumerable(Of T)))
+  fullName: CG.Collections.Generic.EnumerableExtensions.SelectManyR<T>(System.Collections.Generic.IEnumerable<T>, System.Func<T, System.Collections.Generic.IEnumerable<T>>)
+  fullName.vb: CG.Collections.Generic.EnumerableExtensions.SelectManyR(Of T)(System.Collections.Generic.IEnumerable(Of T), System.Func(Of T, System.Collections.Generic.IEnumerable(Of T)))
+  nameWithType: EnumerableExtensions.SelectManyR<T>(IEnumerable<T>, Func<T, IEnumerable<T>>)
+  nameWithType.vb: EnumerableExtensions.SelectManyR(Of T)(IEnumerable(Of T), Func(Of T, IEnumerable(Of T)))
+- uid: CG.Linq
+  name: CG.Linq
+  href: api/CG.Linq.html
+  commentId: N:CG.Linq
+  fullName: CG.Linq
+  nameWithType: CG.Linq
+- uid: CG.Linq.Criteria`1
+  name: Criteria<TEntity>
+  href: api/CG.Linq.Criteria-1.html
+  commentId: T:CG.Linq.Criteria`1
+  name.vb: Criteria(Of TEntity)
+  fullName: CG.Linq.Criteria<TEntity>
+  fullName.vb: CG.Linq.Criteria(Of TEntity)
+  nameWithType: Criteria<TEntity>
+  nameWithType.vb: Criteria(Of TEntity)
+- uid: CG.Linq.Criteria`1.AddCriteria(System.Linq.Expressions.Expression{System.Func{`0,System.Boolean}})
+  name: AddCriteria(Expression<Func<TEntity, Boolean>>)
+  href: api/CG.Linq.Criteria-1.html#CG_Linq_Criteria_1_AddCriteria_System_Linq_Expressions_Expression_System_Func__0_System_Boolean___
+  commentId: M:CG.Linq.Criteria`1.AddCriteria(System.Linq.Expressions.Expression{System.Func{`0,System.Boolean}})
+  name.vb: AddCriteria(Expression(Of Func(Of TEntity, Boolean)))
+  fullName: CG.Linq.Criteria<TEntity>.AddCriteria(System.Linq.Expressions.Expression<System.Func<TEntity, System.Boolean>>)
+  fullName.vb: CG.Linq.Criteria(Of TEntity).AddCriteria(System.Linq.Expressions.Expression(Of System.Func(Of TEntity, System.Boolean)))
+  nameWithType: Criteria<TEntity>.AddCriteria(Expression<Func<TEntity, Boolean>>)
+  nameWithType.vb: Criteria(Of TEntity).AddCriteria(Expression(Of Func(Of TEntity, Boolean)))
+- uid: CG.Linq.Criteria`1.AddCriteria*
+  name: AddCriteria
+  href: api/CG.Linq.Criteria-1.html#CG_Linq_Criteria_1_AddCriteria_
+  commentId: Overload:CG.Linq.Criteria`1.AddCriteria
+  isSpec: "True"
+  fullName: CG.Linq.Criteria<TEntity>.AddCriteria
+  fullName.vb: CG.Linq.Criteria(Of TEntity).AddCriteria
+  nameWithType: Criteria<TEntity>.AddCriteria
+  nameWithType.vb: Criteria(Of TEntity).AddCriteria
+- uid: CG.Linq.Criteria`1.And(CG.Linq.Criteria{`0})
+  name: And(Criteria<TEntity>)
+  href: api/CG.Linq.Criteria-1.html#CG_Linq_Criteria_1_And_CG_Linq_Criteria__0__
+  commentId: M:CG.Linq.Criteria`1.And(CG.Linq.Criteria{`0})
+  name.vb: And(Criteria(Of TEntity))
+  fullName: CG.Linq.Criteria<TEntity>.And(CG.Linq.Criteria<TEntity>)
+  fullName.vb: CG.Linq.Criteria(Of TEntity).And(CG.Linq.Criteria(Of TEntity))
+  nameWithType: Criteria<TEntity>.And(Criteria<TEntity>)
+  nameWithType.vb: Criteria(Of TEntity).And(Criteria(Of TEntity))
+- uid: CG.Linq.Criteria`1.And*
+  name: And
+  href: api/CG.Linq.Criteria-1.html#CG_Linq_Criteria_1_And_
+  commentId: Overload:CG.Linq.Criteria`1.And
+  isSpec: "True"
+  fullName: CG.Linq.Criteria<TEntity>.And
+  fullName.vb: CG.Linq.Criteria(Of TEntity).And
+  nameWithType: Criteria<TEntity>.And
+  nameWithType.vb: Criteria(Of TEntity).And
+- uid: CG.Linq.Criteria`1.AsExpression
+  name: AsExpression()
+  href: api/CG.Linq.Criteria-1.html#CG_Linq_Criteria_1_AsExpression
+  commentId: M:CG.Linq.Criteria`1.AsExpression
+  fullName: CG.Linq.Criteria<TEntity>.AsExpression()
+  fullName.vb: CG.Linq.Criteria(Of TEntity).AsExpression()
+  nameWithType: Criteria<TEntity>.AsExpression()
+  nameWithType.vb: Criteria(Of TEntity).AsExpression()
+- uid: CG.Linq.Criteria`1.AsExpression*
+  name: AsExpression
+  href: api/CG.Linq.Criteria-1.html#CG_Linq_Criteria_1_AsExpression_
+  commentId: Overload:CG.Linq.Criteria`1.AsExpression
+  isSpec: "True"
+  fullName: CG.Linq.Criteria<TEntity>.AsExpression
+  fullName.vb: CG.Linq.Criteria(Of TEntity).AsExpression
+  nameWithType: Criteria<TEntity>.AsExpression
+  nameWithType.vb: Criteria(Of TEntity).AsExpression
+- uid: CG.Linq.Criteria`1.Or(CG.Linq.Criteria{`0})
+  name: Or(Criteria<TEntity>)
+  href: api/CG.Linq.Criteria-1.html#CG_Linq_Criteria_1_Or_CG_Linq_Criteria__0__
+  commentId: M:CG.Linq.Criteria`1.Or(CG.Linq.Criteria{`0})
+  name.vb: Or(Criteria(Of TEntity))
+  fullName: CG.Linq.Criteria<TEntity>.Or(CG.Linq.Criteria<TEntity>)
+  fullName.vb: CG.Linq.Criteria(Of TEntity).Or(CG.Linq.Criteria(Of TEntity))
+  nameWithType: Criteria<TEntity>.Or(Criteria<TEntity>)
+  nameWithType.vb: Criteria(Of TEntity).Or(Criteria(Of TEntity))
+- uid: CG.Linq.Criteria`1.Or*
+  name: Or
+  href: api/CG.Linq.Criteria-1.html#CG_Linq_Criteria_1_Or_
+  commentId: Overload:CG.Linq.Criteria`1.Or
+  isSpec: "True"
+  fullName: CG.Linq.Criteria<TEntity>.Or
+  fullName.vb: CG.Linq.Criteria(Of TEntity).Or
+  nameWithType: Criteria<TEntity>.Or
+  nameWithType.vb: Criteria(Of TEntity).Or
+- uid: CG.Linq.ExpressionExtensions
+  name: ExpressionExtensions
+  href: api/CG.Linq.ExpressionExtensions.html
+  commentId: T:CG.Linq.ExpressionExtensions
+  fullName: CG.Linq.ExpressionExtensions
+  nameWithType: ExpressionExtensions
+- uid: CG.Linq.ExpressionExtensions.AndAlso*
+  name: AndAlso
+  href: api/CG.Linq.ExpressionExtensions.html#CG_Linq_ExpressionExtensions_AndAlso_
+  commentId: Overload:CG.Linq.ExpressionExtensions.AndAlso
+  isSpec: "True"
+  fullName: CG.Linq.ExpressionExtensions.AndAlso
+  nameWithType: ExpressionExtensions.AndAlso
+- uid: CG.Linq.ExpressionExtensions.AndAlso``1(System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}},System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}})
+  name: AndAlso<T>(Expression<Func<T, Boolean>>, Expression<Func<T, Boolean>>)
+  href: api/CG.Linq.ExpressionExtensions.html#CG_Linq_ExpressionExtensions_AndAlso__1_System_Linq_Expressions_Expression_System_Func___0_System_Boolean___System_Linq_Expressions_Expression_System_Func___0_System_Boolean___
+  commentId: M:CG.Linq.ExpressionExtensions.AndAlso``1(System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}},System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}})
+  name.vb: AndAlso(Of T)(Expression(Of Func(Of T, Boolean)), Expression(Of Func(Of T, Boolean)))
+  fullName: CG.Linq.ExpressionExtensions.AndAlso<T>(System.Linq.Expressions.Expression<System.Func<T, System.Boolean>>, System.Linq.Expressions.Expression<System.Func<T, System.Boolean>>)
+  fullName.vb: CG.Linq.ExpressionExtensions.AndAlso(Of T)(System.Linq.Expressions.Expression(Of System.Func(Of T, System.Boolean)), System.Linq.Expressions.Expression(Of System.Func(Of T, System.Boolean)))
+  nameWithType: ExpressionExtensions.AndAlso<T>(Expression<Func<T, Boolean>>, Expression<Func<T, Boolean>>)
+  nameWithType.vb: ExpressionExtensions.AndAlso(Of T)(Expression(Of Func(Of T, Boolean)), Expression(Of Func(Of T, Boolean)))
+- uid: CG.Linq.ExpressionExtensions.BinaryOnExpressions*
+  name: BinaryOnExpressions
+  href: api/CG.Linq.ExpressionExtensions.html#CG_Linq_ExpressionExtensions_BinaryOnExpressions_
+  commentId: Overload:CG.Linq.ExpressionExtensions.BinaryOnExpressions
+  isSpec: "True"
+  fullName: CG.Linq.ExpressionExtensions.BinaryOnExpressions
+  nameWithType: ExpressionExtensions.BinaryOnExpressions
+- uid: CG.Linq.ExpressionExtensions.BinaryOnExpressions``1(System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}},System.Linq.Expressions.ExpressionType,System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}})
+  name: BinaryOnExpressions<T>(Expression<Func<T, Boolean>>, ExpressionType, Expression<Func<T, Boolean>>)
+  href: api/CG.Linq.ExpressionExtensions.html#CG_Linq_ExpressionExtensions_BinaryOnExpressions__1_System_Linq_Expressions_Expression_System_Func___0_System_Boolean___System_Linq_Expressions_ExpressionType_System_Linq_Expressions_Expression_System_Func___0_System_Boolean___
+  commentId: M:CG.Linq.ExpressionExtensions.BinaryOnExpressions``1(System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}},System.Linq.Expressions.ExpressionType,System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}})
+  name.vb: BinaryOnExpressions(Of T)(Expression(Of Func(Of T, Boolean)), ExpressionType, Expression(Of Func(Of T, Boolean)))
+  fullName: CG.Linq.ExpressionExtensions.BinaryOnExpressions<T>(System.Linq.Expressions.Expression<System.Func<T, System.Boolean>>, System.Linq.Expressions.ExpressionType, System.Linq.Expressions.Expression<System.Func<T, System.Boolean>>)
+  fullName.vb: CG.Linq.ExpressionExtensions.BinaryOnExpressions(Of T)(System.Linq.Expressions.Expression(Of System.Func(Of T, System.Boolean)), System.Linq.Expressions.ExpressionType, System.Linq.Expressions.Expression(Of System.Func(Of T, System.Boolean)))
+  nameWithType: ExpressionExtensions.BinaryOnExpressions<T>(Expression<Func<T, Boolean>>, ExpressionType, Expression<Func<T, Boolean>>)
+  nameWithType.vb: ExpressionExtensions.BinaryOnExpressions(Of T)(Expression(Of Func(Of T, Boolean)), ExpressionType, Expression(Of Func(Of T, Boolean)))
+- uid: CG.Linq.ExpressionExtensions.OrElse*
+  name: OrElse
+  href: api/CG.Linq.ExpressionExtensions.html#CG_Linq_ExpressionExtensions_OrElse_
+  commentId: Overload:CG.Linq.ExpressionExtensions.OrElse
+  isSpec: "True"
+  fullName: CG.Linq.ExpressionExtensions.OrElse
+  nameWithType: ExpressionExtensions.OrElse
+- uid: CG.Linq.ExpressionExtensions.OrElse``1(System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}},System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}})
+  name: OrElse<T>(Expression<Func<T, Boolean>>, Expression<Func<T, Boolean>>)
+  href: api/CG.Linq.ExpressionExtensions.html#CG_Linq_ExpressionExtensions_OrElse__1_System_Linq_Expressions_Expression_System_Func___0_System_Boolean___System_Linq_Expressions_Expression_System_Func___0_System_Boolean___
+  commentId: M:CG.Linq.ExpressionExtensions.OrElse``1(System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}},System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}})
+  name.vb: OrElse(Of T)(Expression(Of Func(Of T, Boolean)), Expression(Of Func(Of T, Boolean)))
+  fullName: CG.Linq.ExpressionExtensions.OrElse<T>(System.Linq.Expressions.Expression<System.Func<T, System.Boolean>>, System.Linq.Expressions.Expression<System.Func<T, System.Boolean>>)
+  fullName.vb: CG.Linq.ExpressionExtensions.OrElse(Of T)(System.Linq.Expressions.Expression(Of System.Func(Of T, System.Boolean)), System.Linq.Expressions.Expression(Of System.Func(Of T, System.Boolean)))
+  nameWithType: ExpressionExtensions.OrElse<T>(Expression<Func<T, Boolean>>, Expression<Func<T, Boolean>>)
+  nameWithType.vb: ExpressionExtensions.OrElse(Of T)(Expression(Of Func(Of T, Boolean)), Expression(Of Func(Of T, Boolean)))
+- uid: CG.Linq.ExpressionExtensions.RewriteType*
+  name: RewriteType
+  href: api/CG.Linq.ExpressionExtensions.html#CG_Linq_ExpressionExtensions_RewriteType_
+  commentId: Overload:CG.Linq.ExpressionExtensions.RewriteType
+  isSpec: "True"
+  fullName: CG.Linq.ExpressionExtensions.RewriteType
+  nameWithType: ExpressionExtensions.RewriteType
+- uid: CG.Linq.ExpressionExtensions.RewriteType``2(System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}})
+  name: RewriteType<TSource, TDest>(Expression<Func<TSource, Boolean>>)
+  href: api/CG.Linq.ExpressionExtensions.html#CG_Linq_ExpressionExtensions_RewriteType__2_System_Linq_Expressions_Expression_System_Func___0_System_Boolean___
+  commentId: M:CG.Linq.ExpressionExtensions.RewriteType``2(System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}})
+  name.vb: RewriteType(Of TSource, TDest)(Expression(Of Func(Of TSource, Boolean)))
+  fullName: CG.Linq.ExpressionExtensions.RewriteType<TSource, TDest>(System.Linq.Expressions.Expression<System.Func<TSource, System.Boolean>>)
+  fullName.vb: CG.Linq.ExpressionExtensions.RewriteType(Of TSource, TDest)(System.Linq.Expressions.Expression(Of System.Func(Of TSource, System.Boolean)))
+  nameWithType: ExpressionExtensions.RewriteType<TSource, TDest>(Expression<Func<TSource, Boolean>>)
+  nameWithType.vb: ExpressionExtensions.RewriteType(Of TSource, TDest)(Expression(Of Func(Of TSource, Boolean)))
+- uid: CG.Linq.PredicateBuilder
+  name: PredicateBuilder
+  href: api/CG.Linq.PredicateBuilder.html
+  commentId: T:CG.Linq.PredicateBuilder
+  fullName: CG.Linq.PredicateBuilder
+  nameWithType: PredicateBuilder
+- uid: CG.Linq.PredicateBuilder.And*
+  name: And
+  href: api/CG.Linq.PredicateBuilder.html#CG_Linq_PredicateBuilder_And_
+  commentId: Overload:CG.Linq.PredicateBuilder.And
+  isSpec: "True"
+  fullName: CG.Linq.PredicateBuilder.And
+  nameWithType: PredicateBuilder.And
+- uid: CG.Linq.PredicateBuilder.And``1(System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}},System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}})
+  name: And<T>(Expression<Func<T, Boolean>>, Expression<Func<T, Boolean>>)
+  href: api/CG.Linq.PredicateBuilder.html#CG_Linq_PredicateBuilder_And__1_System_Linq_Expressions_Expression_System_Func___0_System_Boolean___System_Linq_Expressions_Expression_System_Func___0_System_Boolean___
+  commentId: M:CG.Linq.PredicateBuilder.And``1(System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}},System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}})
+  name.vb: And(Of T)(Expression(Of Func(Of T, Boolean)), Expression(Of Func(Of T, Boolean)))
+  fullName: CG.Linq.PredicateBuilder.And<T>(System.Linq.Expressions.Expression<System.Func<T, System.Boolean>>, System.Linq.Expressions.Expression<System.Func<T, System.Boolean>>)
+  fullName.vb: CG.Linq.PredicateBuilder.And(Of T)(System.Linq.Expressions.Expression(Of System.Func(Of T, System.Boolean)), System.Linq.Expressions.Expression(Of System.Func(Of T, System.Boolean)))
+  nameWithType: PredicateBuilder.And<T>(Expression<Func<T, Boolean>>, Expression<Func<T, Boolean>>)
+  nameWithType.vb: PredicateBuilder.And(Of T)(Expression(Of Func(Of T, Boolean)), Expression(Of Func(Of T, Boolean)))
+- uid: CG.Linq.PredicateBuilder.Create*
+  name: Create
+  href: api/CG.Linq.PredicateBuilder.html#CG_Linq_PredicateBuilder_Create_
+  commentId: Overload:CG.Linq.PredicateBuilder.Create
+  isSpec: "True"
+  fullName: CG.Linq.PredicateBuilder.Create
+  nameWithType: PredicateBuilder.Create
+- uid: CG.Linq.PredicateBuilder.Create``1(System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}})
+  name: Create<T>(Expression<Func<T, Boolean>>)
+  href: api/CG.Linq.PredicateBuilder.html#CG_Linq_PredicateBuilder_Create__1_System_Linq_Expressions_Expression_System_Func___0_System_Boolean___
+  commentId: M:CG.Linq.PredicateBuilder.Create``1(System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}})
+  name.vb: Create(Of T)(Expression(Of Func(Of T, Boolean)))
+  fullName: CG.Linq.PredicateBuilder.Create<T>(System.Linq.Expressions.Expression<System.Func<T, System.Boolean>>)
+  fullName.vb: CG.Linq.PredicateBuilder.Create(Of T)(System.Linq.Expressions.Expression(Of System.Func(Of T, System.Boolean)))
+  nameWithType: PredicateBuilder.Create<T>(Expression<Func<T, Boolean>>)
+  nameWithType.vb: PredicateBuilder.Create(Of T)(Expression(Of Func(Of T, Boolean)))
+- uid: CG.Linq.PredicateBuilder.False*
+  name: "False"
+  href: api/CG.Linq.PredicateBuilder.html#CG_Linq_PredicateBuilder_False_
+  commentId: Overload:CG.Linq.PredicateBuilder.False
+  isSpec: "True"
+  fullName: CG.Linq.PredicateBuilder.False
+  nameWithType: PredicateBuilder.False
+- uid: CG.Linq.PredicateBuilder.False``1
+  name: False<T>()
+  href: api/CG.Linq.PredicateBuilder.html#CG_Linq_PredicateBuilder_False__1
+  commentId: M:CG.Linq.PredicateBuilder.False``1
+  name.vb: False(Of T)()
+  fullName: CG.Linq.PredicateBuilder.False<T>()
+  fullName.vb: CG.Linq.PredicateBuilder.False(Of T)()
+  nameWithType: PredicateBuilder.False<T>()
+  nameWithType.vb: PredicateBuilder.False(Of T)()
+- uid: CG.Linq.PredicateBuilder.Not*
+  name: Not
+  href: api/CG.Linq.PredicateBuilder.html#CG_Linq_PredicateBuilder_Not_
+  commentId: Overload:CG.Linq.PredicateBuilder.Not
+  isSpec: "True"
+  fullName: CG.Linq.PredicateBuilder.Not
+  nameWithType: PredicateBuilder.Not
+- uid: CG.Linq.PredicateBuilder.Not``1(System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}})
+  name: Not<T>(Expression<Func<T, Boolean>>)
+  href: api/CG.Linq.PredicateBuilder.html#CG_Linq_PredicateBuilder_Not__1_System_Linq_Expressions_Expression_System_Func___0_System_Boolean___
+  commentId: M:CG.Linq.PredicateBuilder.Not``1(System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}})
+  name.vb: Not(Of T)(Expression(Of Func(Of T, Boolean)))
+  fullName: CG.Linq.PredicateBuilder.Not<T>(System.Linq.Expressions.Expression<System.Func<T, System.Boolean>>)
+  fullName.vb: CG.Linq.PredicateBuilder.Not(Of T)(System.Linq.Expressions.Expression(Of System.Func(Of T, System.Boolean)))
+  nameWithType: PredicateBuilder.Not<T>(Expression<Func<T, Boolean>>)
+  nameWithType.vb: PredicateBuilder.Not(Of T)(Expression(Of Func(Of T, Boolean)))
+- uid: CG.Linq.PredicateBuilder.Or*
+  name: Or
+  href: api/CG.Linq.PredicateBuilder.html#CG_Linq_PredicateBuilder_Or_
+  commentId: Overload:CG.Linq.PredicateBuilder.Or
+  isSpec: "True"
+  fullName: CG.Linq.PredicateBuilder.Or
+  nameWithType: PredicateBuilder.Or
+- uid: CG.Linq.PredicateBuilder.Or``1(System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}},System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}})
+  name: Or<T>(Expression<Func<T, Boolean>>, Expression<Func<T, Boolean>>)
+  href: api/CG.Linq.PredicateBuilder.html#CG_Linq_PredicateBuilder_Or__1_System_Linq_Expressions_Expression_System_Func___0_System_Boolean___System_Linq_Expressions_Expression_System_Func___0_System_Boolean___
+  commentId: M:CG.Linq.PredicateBuilder.Or``1(System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}},System.Linq.Expressions.Expression{System.Func{``0,System.Boolean}})
+  name.vb: Or(Of T)(Expression(Of Func(Of T, Boolean)), Expression(Of Func(Of T, Boolean)))
+  fullName: CG.Linq.PredicateBuilder.Or<T>(System.Linq.Expressions.Expression<System.Func<T, System.Boolean>>, System.Linq.Expressions.Expression<System.Func<T, System.Boolean>>)
+  fullName.vb: CG.Linq.PredicateBuilder.Or(Of T)(System.Linq.Expressions.Expression(Of System.Func(Of T, System.Boolean)), System.Linq.Expressions.Expression(Of System.Func(Of T, System.Boolean)))
+  nameWithType: PredicateBuilder.Or<T>(Expression<Func<T, Boolean>>, Expression<Func<T, Boolean>>)
+  nameWithType.vb: PredicateBuilder.Or(Of T)(Expression(Of Func(Of T, Boolean)), Expression(Of Func(Of T, Boolean)))
+- uid: CG.Linq.PredicateBuilder.True*
+  name: "True"
+  href: api/CG.Linq.PredicateBuilder.html#CG_Linq_PredicateBuilder_True_
+  commentId: Overload:CG.Linq.PredicateBuilder.True
+  isSpec: "True"
+  fullName: CG.Linq.PredicateBuilder.True
+  nameWithType: PredicateBuilder.True
+- uid: CG.Linq.PredicateBuilder.True``1
+  name: True<T>()
+  href: api/CG.Linq.PredicateBuilder.html#CG_Linq_PredicateBuilder_True__1
+  commentId: M:CG.Linq.PredicateBuilder.True``1
+  name.vb: True(Of T)()
+  fullName: CG.Linq.PredicateBuilder.True<T>()
+  fullName.vb: CG.Linq.PredicateBuilder.True(Of T)()
+  nameWithType: PredicateBuilder.True<T>()
+  nameWithType.vb: PredicateBuilder.True(Of T)()
