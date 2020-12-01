@@ -17,6 +17,7 @@ Platforms supported:
     <RepositoryUrl>https://github.com/CodeGator/CG.Linq</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>LINQ, CG.Linq, CodeGator</PackageTags>
+    <Copyright>Copyright © 2010 - 2020 by CodeGator. All rights reserved.</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
