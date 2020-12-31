@@ -7,6 +7,10 @@
 
 * I changed the build target to .net core 3.1
 
+* Bug fixes
+
+* I moved the CRUD repository and store types from CG.Business
+
 ## 2020.5
 
 * I copied the code from the old CG.Linq.
