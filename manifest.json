@@ -14,6 +14,234 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Repositories.CrudRepositoryBase-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Repositories.CrudRepositoryBase-3.html",
+          "hash": "DiYssLhllqkgwXa7gO5yGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Repositories.CrudRepositoryBase-4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Repositories.CrudRepositoryBase-4.html",
+          "hash": "gen7N4T5+EcrJASVsyOwXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Repositories.CrudRepositoryBase-5.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Repositories.CrudRepositoryBase-5.html",
+          "hash": "O88xa7YOb1V3MqyYA5Q8+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Repositories.ICrudRepository-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Repositories.ICrudRepository-2.html",
+          "hash": "sbc7sgRdVe7HoCY4hTCPuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Repositories.ICrudRepository-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Repositories.ICrudRepository-3.html",
+          "hash": "oyS4IUu+j6KU4lDPF3cq1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Repositories.ICrudRepository-4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Repositories.ICrudRepository-4.html",
+          "hash": "oP2K+HG8KI13X71mU95I9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Repositories.ILinqRepository-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Repositories.ILinqRepository-1.html",
+          "hash": "kiSvDbEIoDtH9xzMnQPjtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Repositories.KeyUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Repositories.KeyUtility.html",
+          "hash": "IgZoJpURt7TX8+kXBeNw6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Repositories.LinqRepositoryBase-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Repositories.LinqRepositoryBase-2.html",
+          "hash": "rAWVbDhs5zrZ1Fi0msGSRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Repositories.LinqRepositoryBase-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Repositories.LinqRepositoryBase-3.html",
+          "hash": "xFKegnP8sL6x6YK3WhZFEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Repositories.LinqRepositoryBase-4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Repositories.LinqRepositoryBase-4.html",
+          "hash": "A3eX6KijVw6wNDcQPSrKYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Repositories.LinqRepositoryBase-5.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Repositories.LinqRepositoryBase-5.html",
+          "hash": "SXPoe2MuEgeBJ/dcZEnfMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Repositories.Options.LinqRepositoryOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Repositories.Options.LinqRepositoryOptions.html",
+          "hash": "T94I0urDOF2CNHK3IL/KaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Repositories.Options.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Repositories.Options.html",
+          "hash": "qGN5Uq40/sPYLBXzvquD4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Repositories.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Repositories.html",
+          "hash": "3IGgwdFtV7ZiU0RAxd18hQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Stores.CrudStoreBase-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Stores.CrudStoreBase-3.html",
+          "hash": "Y8HWhF0wBY9bVsyJEX1eqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Stores.CrudStoreBase-4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Stores.CrudStoreBase-4.html",
+          "hash": "Q8AMWdufHgu3mNQXHylvVw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Stores.ICrudStore-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Stores.ICrudStore-2.html",
+          "hash": "Ucucm14xi6TRP2pzx7xSQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Stores.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Stores.html",
+          "hash": "obi1dtFjaf0iisUw9RFxDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/CG.Collections.Generic.EnumerableExtensions.yml",
       "output": {
         ".html": {
@@ -90,7 +318,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "Cw1jNcQ4MPcPwe+aVK6Lzw=="
+          "hash": "jNt7UKxJbx/1oPHsjMQzNg=="
         }
       },
       "is_incremental": false,
@@ -182,7 +410,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "HrADHFl43tDOIbV/U/14LQ=="
+          "hash": "/k2xWe6zsKwgjBZKoQPjYw=="
         }
       },
       "is_incremental": false,
@@ -209,7 +437,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 6,
+          "total_file_count": 25,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
