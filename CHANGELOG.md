@@ -11,6 +11,8 @@
 
 * I moved the CRUD repository and store types from CG.Business
 
+* I moved the generic model types from CG.Business.
+
 ## 2020.5
 
 * I copied the code from the old CG.Linq.
