@@ -14,6 +14,90 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Models.IModel-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Models.IModel-1.html",
+          "hash": "1X029d8hD+FmzexrCCp7Uw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Models.IModel-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Models.IModel-2.html",
+          "hash": "BCsPBAwAv/qTgk9EqU0GIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Models.IModel-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Models.IModel-3.html",
+          "hash": "PW6422cvGoLLAvVudhD2tQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Models.ModelBase-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Models.ModelBase-1.html",
+          "hash": "UtWEfEotTiu3YNfMnPcunA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Models.ModelBase-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Models.ModelBase-2.html",
+          "hash": "VjNMsiZ18T+psO4KF4H32g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Models.ModelBase-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Models.ModelBase-3.html",
+          "hash": "A57rIRaENLe+ejEWN8nZAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Business.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Business.Models.html",
+          "hash": "7DZckgTlUmtuQAb6h/lUBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/CG.Business.Repositories.CrudRepositoryBase-3.yml",
       "output": {
         ".html": {
@@ -318,7 +402,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "jNt7UKxJbx/1oPHsjMQzNg=="
+          "hash": "1w3DNAyW2aFthomYGy1mdA=="
         }
       },
       "is_incremental": false,
@@ -410,7 +494,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "/k2xWe6zsKwgjBZKoQPjYw=="
+          "hash": "Vm1t4JEWtmSFWIUvYyK/Ug=="
         }
       },
       "is_incremental": false,
@@ -437,7 +521,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 25,
+          "total_file_count": 32,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
