@@ -11,7 +11,6 @@ namespace CG.Business.Models
     /// </summary>
     /// <typeparam name="TKey">The type of associated model key.</typeparam>
     public class ModelBase<TKey> : ModelBase, IModel<TKey>
-        where TKey : new()
     {
         // *******************************************************************
         // Properties.
@@ -21,7 +20,7 @@ namespace CG.Business.Models
 
         /// <inheritdoc />
         [Key]
-        public TKey Key { get; set; }
+        public virtual TKey Key { get; set; }
 
         #endregion
 
@@ -93,8 +92,6 @@ namespace CG.Business.Models
     /// <typeparam name="TKey1">The type of associated model key 1.</typeparam>
     /// <typeparam name="TKey2">The type of associated model key 2.</typeparam>
     public class ModelBase<TKey1, TKey2> : ModelBase, IModel<TKey1, TKey2>
-        where TKey1 : new()
-        where TKey2 : new()
     {
         // *******************************************************************
         // Properties.
@@ -104,11 +101,11 @@ namespace CG.Business.Models
 
         /// <inheritdoc />
         [Key, Column(Order = 0)]
-        public TKey1 Key1 { get; set; }
+        public virtual TKey1 Key1 { get; set; }
 
         /// <inheritdoc />
         [Key, Column(Order = 1)]
-        public TKey2 Key2 { get; set; }
+        public virtual TKey2 Key2 { get; set; }
 
         #endregion
 
@@ -177,7 +174,6 @@ namespace CG.Business.Models
     }
 
 
-
     /// <summary>
     /// This class is a default implementation of the <see cref="IModel{TKey1, TKey2, TKey3}"/>
     /// interface.
@@ -186,9 +182,6 @@ namespace CG.Business.Models
     /// <typeparam name="TKey2">The type of associated model key 2.</typeparam>
     /// <typeparam name="TKey3">The type of associated model key 3.</typeparam>
     public class ModelBase<TKey1, TKey2, TKey3> : ModelBase, IModel<TKey1, TKey2, TKey3>
-        where TKey1 : new()
-        where TKey2 : new()
-        where TKey3 : new()
     {
         // *******************************************************************
         // Properties.
@@ -198,15 +191,15 @@ namespace CG.Business.Models
 
         /// <inheritdoc />
         [Key, Column(Order = 0)]
-        public TKey1 Key1 { get; set; }
+        public virtual TKey1 Key1 { get; set; }
 
         /// <inheritdoc />
         [Key, Column(Order = 1)]
-        public TKey2 Key2 { get; set; }
+        public virtual TKey2 Key2 { get; set; }
 
         /// <inheritdoc />
         [Key, Column(Order = 2)]
-        public TKey3 Key3 { get; set; }
+        public virtual TKey3 Key3 { get; set; }
 
         #endregion
 
