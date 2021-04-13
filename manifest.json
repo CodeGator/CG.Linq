@@ -14,95 +14,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CG.Business.Models.IModel-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Business.Models.IModel-1.html",
-          "hash": "8TsMqIwTGQ87JCx1CzxouOPlUH1vKvOEtkwUdAxfp3Q="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Business.Models.IModel-2.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Business.Models.IModel-2.html",
-          "hash": "ppeUmQJtW0n2Fyn0L5MojkUKV6FX/9M5oagRDxHrMCw="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Business.Models.IModel-3.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Business.Models.IModel-3.html",
-          "hash": "VRaPqud0vwLNMvceJ5jMiz7GQVs6QqYMi67873Rl2WE="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Business.Models.ModelBase-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Business.Models.ModelBase-1.html",
-          "hash": "vllToyMXh7T6dlENpWtGASUvOu1Mh4UA750T9ksU6Ow="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Business.Models.ModelBase-2.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Business.Models.ModelBase-2.html",
-          "hash": "HVSav9GTpi44JDwqQOMU5iTenL7J5nXR6ZzgXBn+BDc="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Business.Models.ModelBase-3.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Business.Models.ModelBase-3.html",
-          "hash": "QZ+7DGiXJHKO8D5Cr5hne0Hj1LxYtwcJGAhr6odvGKI="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Business.Models.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Business.Models.html",
-          "hash": "B92WvFGFpk0dPyuN8hSE5uQfqubyHw95QQlBkQyARGA="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api/CG.Business.Repositories.CrudRepositoryBase-3.yml",
       "output": {
         ".html": {
           "relative_path": "api/CG.Business.Repositories.CrudRepositoryBase-3.html",
-          "hash": "wQeyZsflW327ndZiaZjQV2KoGBAjXfu7AZsb8cC4LhQ="
+          "hash": "hbWwfdKPEoZ0gRCTmmoBlIbB/WtlIKTNaSCqcuVU3uE="
         }
       },
       "is_incremental": false,
@@ -114,7 +30,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Business.Repositories.CrudRepositoryBase-4.html",
-          "hash": "ecXQYZRs+yyg8AMYodJllWHcdIoO3vJhptaJWsW1FNE="
+          "hash": "25RoReQcGais0oOJ0/jVuS+zygYL04X5Z+YqE5gWEWc="
         }
       },
       "is_incremental": false,
@@ -126,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Business.Repositories.CrudRepositoryBase-5.html",
-          "hash": "t+hvNz7VcTknlouzin7VmMCNNgUbyUXC5k/YbRBhwn4="
+          "hash": "ddd3Nw5/uoKY6GSxIPblb+9Lh41oc7JDxFBRExCmMjU="
         }
       },
       "is_incremental": false,
@@ -138,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Business.Repositories.ICrudRepository-2.html",
-          "hash": "KaaW6gnK3bIGiLLQoOyFhZg+wvjZcGbOXeRLmpyeZCw="
+          "hash": "ir2SrIagX9EUwPLgMPqCk0L+mf5FIkyvp1wjNcB66EA="
         }
       },
       "is_incremental": false,
@@ -150,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Business.Repositories.ICrudRepository-3.html",
-          "hash": "iuvAuFucXH9djFQFfl120hTcmheQDnbKspAu4YJPr6M="
+          "hash": "y1K8FEjeiG84TiwYUXVKoKhmhgE6WO+Abv5d/SEPedo="
         }
       },
       "is_incremental": false,
@@ -162,7 +78,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Business.Repositories.ICrudRepository-4.html",
-          "hash": "LTBF3ul1M01g+npgPHFdsZzobh62uCzqyQoUy2XDhAI="
+          "hash": "RYiumFhr4dihABTK6QO4f2dDUKD7FdI+suYPHCqx+rc="
         }
       },
       "is_incremental": false,
@@ -174,7 +90,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Business.Repositories.ILinqRepository-1.html",
-          "hash": "1eJ0RcbZNeDHfouVOlitADrjvTfZMSHfJZY5xLRzTFA="
+          "hash": "fzuNqC/Z9frVhTGVIIsUYeKdixoGgIA3nnSOXkR11dM="
         }
       },
       "is_incremental": false,
@@ -186,7 +102,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Business.Repositories.KeyUtility.html",
-          "hash": "ftKZ/3pgRqADE7FkflqZBKihKQeOIplP+z0XB4bcUzM="
+          "hash": "ShxvH6kny0NCXLZ9anlrZhYqDbLhUDEl04c8ICzgO/8="
         }
       },
       "is_incremental": false,
@@ -198,7 +114,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Business.Repositories.LinqRepositoryBase-2.html",
-          "hash": "MVPZ/FIjyJmQQdxz+SnSP6K9p+JpJLf40p+H9fD9yh0="
+          "hash": "QaCocltfnOm5lwyilrdm5SaqvafeERZzfhU0nqepbxY="
         }
       },
       "is_incremental": false,
@@ -210,7 +126,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Business.Repositories.LinqRepositoryBase-3.html",
-          "hash": "fT6N7KpkmcJifq0ORfR9h8n5X4eMecwFZsuABLD1yfk="
+          "hash": "IhRLViS8fjz90qjehOj3Pucs5lXZtdY3nJH38BOGuu0="
         }
       },
       "is_incremental": false,
@@ -222,7 +138,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Business.Repositories.LinqRepositoryBase-4.html",
-          "hash": "u5XgaJVJeSRpPGmKlrT1KJ3jvf1UAWuEOeabJDmQ93w="
+          "hash": "4QTPB9/Ni746PC9jklgPS5EfMhUlLML3/HQSVlurrmM="
         }
       },
       "is_incremental": false,
@@ -234,7 +150,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Business.Repositories.LinqRepositoryBase-5.html",
-          "hash": "hQvZExVdtdoH2+QWA4lM6capc6nomZiOEwplMXDbn1s="
+          "hash": "xkmCD1hK3awESOAByYYTA4uOTfdLxL/AAa1Tbese6M8="
         }
       },
       "is_incremental": false,
@@ -246,7 +162,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Business.Repositories.Options.LinqRepositoryOptions.html",
-          "hash": "vKTjwLA0aN5EcS6UrjhbhyVv3nsvWcTn5PLXO8rX/7g="
+          "hash": "ww7CK+KK5gOUk069FNLD52PaQ4rfTfoG8Lq6iNo8LHU="
         }
       },
       "is_incremental": false,
@@ -258,7 +174,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Business.Repositories.Options.html",
-          "hash": "HYIZHsIEuLJZOswEqo1ZLME8LmIpXuo5j72B6ppthYw="
+          "hash": "jjwdOKmSprgYlWa+vyJ3sNssNL1C77UU4iior8qyGWI="
         }
       },
       "is_incremental": false,
@@ -270,7 +186,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Business.Repositories.html",
-          "hash": "vNSNXLX3n16C4lObH3i+2xHxe6y4sDQUstVB3eYiwzg="
+          "hash": "e8jegIpGqsWzCCstOWo4aVKq7DgMbZY7tlpprMxdeZs="
         }
       },
       "is_incremental": false,
@@ -282,7 +198,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Business.Stores.CrudStoreBase-3.html",
-          "hash": "ZipClPJXFjWr75M+p0Ojw7sI/mbtzfxDEryt6wKXVv0="
+          "hash": "W+a/OoG3TWLl/ZfgN1lo83+WvlI7S9bNHRAsXTjl5LM="
         }
       },
       "is_incremental": false,
@@ -294,7 +210,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Business.Stores.CrudStoreBase-4.html",
-          "hash": "a/Q9KlfoXFewa56Kx7X8Jho3YUFqCs7j6XK3XxZCFQk="
+          "hash": "mOwNhTZFxpJKhojr01S+50uiYYOeUuwtIFE5g6+j/eA="
         }
       },
       "is_incremental": false,
@@ -306,7 +222,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Business.Stores.ICrudStore-2.html",
-          "hash": "569OAGqRmiOPD4XrH2CurVGqtm/E905Mn2bEwuMlAh0="
+          "hash": "xJAkd0Ok9Tf4KUmmjwYL7iHO+DeXW7qf0jO54MHHlEc="
         }
       },
       "is_incremental": false,
@@ -318,7 +234,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Business.Stores.html",
-          "hash": "MMGv/LNQUdmOT4m9wAXz1x+sueh7yrYYoPBdqIkGVPQ="
+          "hash": "LeNqHBk2Jrjm2RBbk6vUOkP/J7d0beGztp3v0OES7ys="
         }
       },
       "is_incremental": false,
@@ -330,7 +246,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Collections.Generic.EnumerableExtensions.html",
-          "hash": "yS4NakXW7c6wHttAOIQEvM21nyuh6MrN3scx6xviSLo="
+          "hash": "5yw2dD+qmcJE4QUJw9htTMf+ZporxeISRqhKX0FQpW8="
         }
       },
       "is_incremental": false,
@@ -342,7 +258,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Collections.Generic.html",
-          "hash": "7FYSY5SZg31z8lituo4fddO7MYFNLYdXxYnE81IeRXg="
+          "hash": "UkxbC/QOoHkusG10G7nOQEoQkmlupV6+QeIvNN7Wspw="
         }
       },
       "is_incremental": false,
@@ -354,7 +270,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Linq.Criteria-1.html",
-          "hash": "jYNxtnCBosjKuv0k6YtIkZXow9FOQmAliHKOedNDonI="
+          "hash": "cMjO7EEoVMf9t3l5q2bNshW25mYj/SrOAFJkg/fYfto="
         }
       },
       "is_incremental": false,
@@ -366,7 +282,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Linq.ExpressionExtensions.html",
-          "hash": "wo6iVntHtyYKGcwvR/Vi1lXtr+Urmt4G5S6Smkq6rb8="
+          "hash": "1yhzlmbZ1rYzR7jjuQFH77Ycs07SNl99XjiOcNpOHp8="
         }
       },
       "is_incremental": false,
@@ -378,7 +294,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Linq.PredicateBuilder.html",
-          "hash": "dKDEjyLK9ocjVp28EtDp4AJGuwsLFfP4y0y3z6AS4fU="
+          "hash": "pUsQr0IrDRA6XzPm8I+ybEhbOSLkJxH85JZLoU9SPj0="
         }
       },
       "is_incremental": false,
@@ -390,7 +306,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Linq.html",
-          "hash": "dW7SfjZmhDVNH3CceG0Fuyx9T6+e/Wnx9/OlSgRatXI="
+          "hash": "dx/pbHsQl6lazcNmocVcf7pcaB/3kpnhOkQklISsfL0="
         }
       },
       "is_incremental": false,
@@ -402,7 +318,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "sL6OQoeDesmFS2cj7whxi7TudIO7BLy6MTVYB9ylAQQ="
+          "hash": "ILlUQRvvCaoFafhPyVI3XAr4lOov2V8fTO1sDtghLKI="
         }
       },
       "is_incremental": false,
@@ -414,7 +330,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "dajSEgtAs/v7CK5L21qL4vHgTdyUv0J7McsQOIiZpLA="
+          "hash": "gcp1JB3/cLklcT+72krfnba+6CuoFkaQtheZ9cEBdjQ="
         }
       },
       "is_incremental": false,
@@ -482,7 +398,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "nQcLbk1CSCOTBDhfrzDwDnQUu9hmKzazmu/FN3hhFcE="
+          "hash": "nHMHAXHPsrshW8umwbQZZEd1s/OZV59dfMQ2bNM+IhA="
         }
       },
       "is_incremental": false,
@@ -494,7 +410,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "L4jODskMyfBZk6H2a0wiya/W5GS9wtkGPZgewehHPv8="
+          "hash": "HEYCaxGwlytWkzv0QuOx1USVBoH7pMWLp+QBkel6VmU="
         }
       },
       "is_incremental": false,
@@ -521,7 +437,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 32,
+          "total_file_count": 25,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
