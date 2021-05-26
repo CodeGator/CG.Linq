@@ -577,6 +577,58 @@ references:
   isSpec: "True"
   fullName: CG.Business.Repositories.Options.LinqRepositoryOptions.ConnectionString
   nameWithType: LinqRepositoryOptions.ConnectionString
+- uid: CG.Business.Repositories.Options.LinqRepositoryOptions.DatabaseName
+  name: DatabaseName
+  href: api/CG.Business.Repositories.Options.LinqRepositoryOptions.html#CG_Business_Repositories_Options_LinqRepositoryOptions_DatabaseName
+  commentId: P:CG.Business.Repositories.Options.LinqRepositoryOptions.DatabaseName
+  fullName: CG.Business.Repositories.Options.LinqRepositoryOptions.DatabaseName
+  nameWithType: LinqRepositoryOptions.DatabaseName
+- uid: CG.Business.Repositories.Options.LinqRepositoryOptions.DatabaseName*
+  name: DatabaseName
+  href: api/CG.Business.Repositories.Options.LinqRepositoryOptions.html#CG_Business_Repositories_Options_LinqRepositoryOptions_DatabaseName_
+  commentId: Overload:CG.Business.Repositories.Options.LinqRepositoryOptions.DatabaseName
+  isSpec: "True"
+  fullName: CG.Business.Repositories.Options.LinqRepositoryOptions.DatabaseName
+  nameWithType: LinqRepositoryOptions.DatabaseName
+- uid: CG.Business.Repositories.Options.LinqRepositoryOptions.MultipleActiveResultSets
+  name: MultipleActiveResultSets
+  href: api/CG.Business.Repositories.Options.LinqRepositoryOptions.html#CG_Business_Repositories_Options_LinqRepositoryOptions_MultipleActiveResultSets
+  commentId: P:CG.Business.Repositories.Options.LinqRepositoryOptions.MultipleActiveResultSets
+  fullName: CG.Business.Repositories.Options.LinqRepositoryOptions.MultipleActiveResultSets
+  nameWithType: LinqRepositoryOptions.MultipleActiveResultSets
+- uid: CG.Business.Repositories.Options.LinqRepositoryOptions.MultipleActiveResultSets*
+  name: MultipleActiveResultSets
+  href: api/CG.Business.Repositories.Options.LinqRepositoryOptions.html#CG_Business_Repositories_Options_LinqRepositoryOptions_MultipleActiveResultSets_
+  commentId: Overload:CG.Business.Repositories.Options.LinqRepositoryOptions.MultipleActiveResultSets
+  isSpec: "True"
+  fullName: CG.Business.Repositories.Options.LinqRepositoryOptions.MultipleActiveResultSets
+  nameWithType: LinqRepositoryOptions.MultipleActiveResultSets
+- uid: CG.Business.Repositories.Options.LinqRepositoryOptions.ServerName
+  name: ServerName
+  href: api/CG.Business.Repositories.Options.LinqRepositoryOptions.html#CG_Business_Repositories_Options_LinqRepositoryOptions_ServerName
+  commentId: P:CG.Business.Repositories.Options.LinqRepositoryOptions.ServerName
+  fullName: CG.Business.Repositories.Options.LinqRepositoryOptions.ServerName
+  nameWithType: LinqRepositoryOptions.ServerName
+- uid: CG.Business.Repositories.Options.LinqRepositoryOptions.ServerName*
+  name: ServerName
+  href: api/CG.Business.Repositories.Options.LinqRepositoryOptions.html#CG_Business_Repositories_Options_LinqRepositoryOptions_ServerName_
+  commentId: Overload:CG.Business.Repositories.Options.LinqRepositoryOptions.ServerName
+  isSpec: "True"
+  fullName: CG.Business.Repositories.Options.LinqRepositoryOptions.ServerName
+  nameWithType: LinqRepositoryOptions.ServerName
+- uid: CG.Business.Repositories.Options.LinqRepositoryOptions.TrustedConnection
+  name: TrustedConnection
+  href: api/CG.Business.Repositories.Options.LinqRepositoryOptions.html#CG_Business_Repositories_Options_LinqRepositoryOptions_TrustedConnection
+  commentId: P:CG.Business.Repositories.Options.LinqRepositoryOptions.TrustedConnection
+  fullName: CG.Business.Repositories.Options.LinqRepositoryOptions.TrustedConnection
+  nameWithType: LinqRepositoryOptions.TrustedConnection
+- uid: CG.Business.Repositories.Options.LinqRepositoryOptions.TrustedConnection*
+  name: TrustedConnection
+  href: api/CG.Business.Repositories.Options.LinqRepositoryOptions.html#CG_Business_Repositories_Options_LinqRepositoryOptions_TrustedConnection_
+  commentId: Overload:CG.Business.Repositories.Options.LinqRepositoryOptions.TrustedConnection
+  isSpec: "True"
+  fullName: CG.Business.Repositories.Options.LinqRepositoryOptions.TrustedConnection
+  nameWithType: LinqRepositoryOptions.TrustedConnection
 - uid: CG.Business.Stores
   name: CG.Business.Stores
   href: api/CG.Business.Stores.html
