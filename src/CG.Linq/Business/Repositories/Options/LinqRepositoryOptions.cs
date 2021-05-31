@@ -69,12 +69,18 @@ namespace CG.Business.Repositories.Options
             get
             {
                 var parser = new DbConnectionStringBuilder();
+
                 parser.ConnectionString = ConnectionString;
-                if (false == parser.TryGetValue("server", out var flag))
+                if (false == parser.TryGetValue("trustedconnection", out var flag))
                 {
                     flag = "False";
                 }
-                return bool.Parse($"{flag}");
+                
+                if (false == bool.TryParse($"{flag}", out var value))
+                {
+                    value = false;
+                }
+                return value;
             }
         }
 
@@ -92,7 +98,12 @@ namespace CG.Business.Repositories.Options
                 {
                     flag = "False";
                 }
-                return bool.Parse($"{flag}");
+
+                if (false == bool.TryParse($"{flag}", out var value))
+                {
+                    value = false;
+                }
+                return value;
             }
         }
 
