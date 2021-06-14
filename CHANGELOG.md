@@ -3,8 +3,11 @@
 
 ## 2021.2
 
-* I switched to the .NET 5.0 framework
-* I added some properties to the LinqRepositoryOptions type
+* I switched to the .NET 5.0 framework.
+
+* I added some properties to the LinqRepositoryOptions type.
+
+* I moved DistinctOn to the CG.Core package.
 
 ## 2021.1
 

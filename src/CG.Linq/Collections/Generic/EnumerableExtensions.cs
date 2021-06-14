@@ -19,32 +19,6 @@ namespace CG.Collections.Generic
         #region Public methods
 
         /// <summary>
-        /// This method returns elements from a sequence that are distinct, on 
-        /// the specified property.
-        /// </summary>
-        /// <typeparam name="T">The type associated with the sequences.</typeparam>
-        /// <typeparam name="K">The type associated with the property.</typeparam>
-        /// <param name="lhs">The left-hand queryable sequence.</param>
-        /// <param name="rhs">The right-hand LINQ expression to select a property.</param>
-        /// <returns>An <see cref="IEnumerable{T}"/> sequence.</returns>
-        public static IEnumerable<T> DistinctOn<T, K>(
-            this IEnumerable<T> lhs,
-            Func<T, K> rhs
-            )
-        {
-            // Validate the parameters before attempting to use them.
-            Guard.Instance().ThrowIfNull(lhs, nameof(lhs))
-                .ThrowIfNull(rhs, nameof(rhs));
-
-            // Perform the operation.
-            return lhs.GroupBy(rhs)
-                .Select(x => x.First())
-                .AsEnumerable();
-        }
-
-        // *******************************************************************
-
-        /// <summary>
         /// This method creates a smaller batch of items from a larger enumerable 
         /// sequence.
         /// </summary>
