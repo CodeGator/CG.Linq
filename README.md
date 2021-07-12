@@ -5,6 +5,7 @@
 [![NuGet downloads](https://img.shields.io/nuget/dt/CG.Linq.svg?style=flat)](https://nuget.org/packages/CG.Linq)
 ![Azure DevOps coverage](https://img.shields.io/azure-devops/coverage/codegator/CG.Linq/32)
 [![Github discussion](https://img.shields.io/badge/Discussion-online-blue)](https://github.com/CodeGator/CG.Linq/discussions)
+[![CG.Linq on fuget.org](https://www.fuget.org/packages/CG.Linq/badge.svg)](https://www.fuget.org/packages/CG.Linq)
 
 #### What does it do?
 This package contains LINQ extensions used by other CodeGator packages.
@@ -20,6 +21,8 @@ This package contains LINQ extensions used by other CodeGator packages.
 
 #### How do I contact you?
 If you've spotted a bug in the code please use the project Issues [HERE](https://github.com/CodeGator/CG.Linq/issues)
+
+We have a discussion group [HERE](https://github.com/CodeGator/CG.Linq/discussions)
 
 #### Is there any documentation?
 There is developer documentation [HERE](https://codegator.github.io/CG.Linq/)
